@@ -1,0 +1,14 @@
+D:\THIKTHP\bin\Debug\net7.0\THIKTHP.exe
+D:\THIKTHP\bin\Debug\net7.0\THIKTHP.deps.json
+D:\THIKTHP\bin\Debug\net7.0\THIKTHP.runtimeconfig.json
+D:\THIKTHP\bin\Debug\net7.0\THIKTHP.dll
+D:\THIKTHP\bin\Debug\net7.0\THIKTHP.pdb
+D:\THIKTHP\obj\Debug\net7.0\THIKTHP.GeneratedMSBuildEditorConfig.editorconfig
+D:\THIKTHP\obj\Debug\net7.0\THIKTHP.AssemblyInfoInputs.cache
+D:\THIKTHP\obj\Debug\net7.0\THIKTHP.AssemblyInfo.cs
+D:\THIKTHP\obj\Debug\net7.0\THIKTHP.csproj.CoreCompileInputs.cache
+D:\THIKTHP\obj\Debug\net7.0\THIKTHP.dll
+D:\THIKTHP\obj\Debug\net7.0\refint\THIKTHP.dll
+D:\THIKTHP\obj\Debug\net7.0\THIKTHP.pdb
+D:\THIKTHP\obj\Debug\net7.0\THIKTHP.genruntimeconfig.cache
+D:\THIKTHP\obj\Debug\net7.0\ref\THIKTHP.dll

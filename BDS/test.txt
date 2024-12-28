@@ -1,0 +1,41 @@
+MaBDS,TenBDS,Huong,Diachi,Dientich (m2),Giaban (tỷ vnđ)
+A11,Nhà ở,Đông,Lô 53B Lê Hiến Mai,100,3.4
+A12,Nhà ở,Đông ,"Lô 245 Đà Sơn, Khu đô thị NewCity",86,3.2
+A13,Đất,Tây,Lô 125A Nguyễn Nhược Pháp,164,4.7
+A14,Đất,Bắc,Lô 2451 Khu Đô thị Nam Hòa Xuân,100,3.5
+A15,Đất,Nam ,Lô 2955 Khu Đô thị Nam Hòa Xuân,100,3.55
+A16,Căn hộ,Đông Nam,"C528, Tầng 5, Hoàng Anh Gia Lai",60,4.7
+A17,Căn hộ ,Tây Bắc,"E632, Tầng 6, Azura",70,5.2
+A18,Đất,Tây,Lô 641 Khu đô thị FPT Đà Nẵng,100,3.1
+A19,Đất,Đông Bắc,Lô 251 Khu đô thị FPT Đà Nẵng,100,3.2
+A20,Nhà ở,Nam,"K521/53 Tôn Đản, Cẩm Lệ, Đà Nẵng",57,2.1
+A21,Đất,Nam,Lô 162 Khu đô thị Phước lý ,100,3
+A22,Đất,Bắc,Lô 98 Khu đô thị Phước lý,124,3.5
+A23,Nhà ở,Tây Nam,K417/2/7 Nguyễn Phước Nguyên,52,2.4
+A24,Đất,Đông Bắc,Lô 134 Khu Đô thị Nam Hòa Xuân,100,3.5
+A25,Căn hộ,Đông,"K1459, Tầng 14, Khu K, Azura ",75,4
+A26,Căn hộ,Đông Nam,"C872, Tầng 8, Hoàng Anh Gia Lai",50,2.2
+A27,Đất,Tây,Lô 620 Nguyễn Nhược Pháp,125,4.5
+A28,Đất,Đông Nam,Lô 1256 Bùi Tấn Diên,148,4.9
+A29,Đất,Tây Nam,Lô 952 Nguyễn Tất Thành,100,6
+A30,Nhà ở,Bắc,912 Nguyễn Như Hạnh ,100,3.5
+A31,Nhà ở,Đông,Lô 153B Lê Hiến Mai,100,3.4
+A32,Nhà ở,Đông ,"Lô 725 Đà Sơn, Khu đô thị NewCity",86,3.2
+A33,Đất,Tây,Lô 725 Nguyễn Nhược Pháp,164,4.7
+A34,Đất,Bắc,Lô 1421 Khu Đô thị Nam Hòa Xuân,100,3.5
+A35,Đất,Nam ,Lô 1975 Khu Đô thị Nam Hòa Xuân,100,3.55
+A36,Căn hộ,Đông Nam,"C828, Tầng 8, Hoàng Anh Gia Lai",60,4.7
+A37,Căn hộ ,Tây Bắc,"E432, Tầng 4, Azura",170,8.9
+A38,Đất,Tây,Lô 141 Khu đô thị FPT Đà Nẵng,100,3.1
+A39,Đất,Đông Bắc,Lô 551 Khu đô thị FPT Đà Nẵng,100,3.2
+A40,Nhà ở,Nam,"K231/87 Tôn Đản, Cẩm Lệ, Đà Nẵng",47,1.7
+A41,Đất,Nam,Lô 564 Khu đô thị Phước lý ,100,3
+A42,Đất,Bắc,Lô 194 Khu đô thị Phước lý,124,3.5
+A43,Nhà ở,Tây Nam,K317/8/17 Nguyễn Phước Nguyên,38,1.5
+A44,Đất,Đông Bắc,Lô 164 Khu Đô thị Nam Hòa Xuân,100,3.5
+A45,Căn hộ,Đông,"K1259, Tầng 12, Khu K, Azura ",80,4
+A46,Căn hộ,Đông Nam,"C772, Tầng 7, Hoàng Anh Gia Lai",100,5.2
+A47,Đất,Tây,Lô 220 Nguyễn Nhược Pháp,125,4.5
+A48,Đất,Đông Nam,Lô 152 Bùi Tấn Diên,148,4.9
+A49,Đất,Tây Nam,Lô 1852 Nguyễn Tất Thành,100,6
+A50,Nhà ở,Bắc,712 Nguyễn Như Hạnh ,100,3.5
